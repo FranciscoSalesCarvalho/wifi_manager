@@ -1,13 +1,13 @@
 # wifi_manager
 
-A new flutter plugin project.
+A new flutter plugin project for manage wifi.
 
 ## Getting Started
 
 This project is a starting point for a Flutter
 [plug-in package](https://flutter.dev/developing-packages/),
 a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+Android for now.
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
